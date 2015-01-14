@@ -1,0 +1,2 @@
+# shortn-it
+It’s like having your own custom bit.ly service! You’ve probably seen major corporations with short URLs utilizing a domain that’s shorter than their main domain, but still reflects their brand. Shortn.It allows you to achieve the same effect with your brand, no matter how large or small. All you need is Shortn.It, WordPress (2.5+), and if you want, a short domain configured as an alias.
