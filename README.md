@@ -1,4 +1,7 @@
 # Shortn.It #
+
+![Shortn.It Banner](https://raw.githubusercontent.com/davidcochrum/shortn-it/master/images/banner-772x250.png)
+
 **Contributors:** docofmedia
   
 **Donate link:** http://docof.me
