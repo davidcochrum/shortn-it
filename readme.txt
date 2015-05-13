@@ -1,10 +1,10 @@
 === Shortn.It ===
 Contributors: docofmedia
-Donate link: http://docof.me
-Version: 1.7.1
+Donate link: http://docof.me/donate
+Version: 1.7.4
 Tags: url shortener, url shortening, shorturl, short_url, shortlink, short permalink, short url, custom short url, custom url
 Requires at least: 2.5
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -63,7 +63,16 @@ The short domain needs to be configured as an alias to your main domain. If you'
 
 == Changelog ==
 
-= 1.7.0 =
+= 1.7.4 =
+* ADDED: Option to filter WP SEO by Yoast canonical links with Shortn.It URLs
+
+= 1.7.3 =
+* ADDED: Filter WP SEO by Yoast canonical links with Shortn.It URLs
+
+= 1.7.2 =
+* FIXED: More shorthand array declarations throwing syntax errors in older versions of PHP
+
+= 1.7.1 =
 * FIXED: Shorthand array declarations throwing syntax errors in older versions of PHP
 
 = 1.7.0 =
